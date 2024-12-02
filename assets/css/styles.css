@@ -914,7 +914,7 @@ body.dark-theme {
   .questions__container,
   .contact__container,
   .footer__container{
-    grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   }
   
   .home{
